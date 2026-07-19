@@ -163,7 +163,7 @@
     "better-docs":
       "^2.7.3",
     "bn.js":
-      "^5.2.3",
+      "^5.2.5",
     "c8":
       "^10.1.3",
     "chai":
@@ -177,9 +177,9 @@
     "eslint":
       "^10.3.0",
     "eslint-import-resolver-typescript":
-      "^4.4.4",
+      "^4.4.5",
     "eslint-plugin-chai-friendly":
-      "^1.2.0",
+      "^1.2.1",
     "eslint-plugin-import":
       "^2.32.0",
     "eslint-plugin-jsdoc":
@@ -189,13 +189,13 @@
     "fflate":
       "^0.8.3",
     "globals":
-      "^17.6.0",
+      "^17.7.0",
     "mocha":
       "^11.7.6",
     "playwright":
       "^1.60.0",
     "rollup":
-      "^4.60.4",
+      "^4.62.2",
     "sinon":
       "^21.0.1",
     "ts-node":
@@ -203,7 +203,7 @@
     "typescript":
       "^5.9.3",
     "typescript-eslint":
-      "^8.60.0",
+      "^8.64.0",
     "web-streams-polyfill":
       "^4.3.0"
   },
